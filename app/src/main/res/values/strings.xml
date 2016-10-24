@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Metepec Map</string>
+    <string name="app_map_name">Ubicación</string>
+    <string name="title_activity_mapa_ubicacion">Map</string>
+    <string name="oUbicacion">ubicacion</string>
+
+    <string name="sChurch">Iglesia del Calvario</string>
+    <string name="sMall">Galerias Metepec</string>
+    <string name="sMarket">Mercado de Artesanias de Metepec</string>
+    <string name="sPark">Parque Ambiental Bicentenario</string>
+</resources>
